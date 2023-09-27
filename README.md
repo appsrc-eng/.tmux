@@ -1,6 +1,6 @@
 # tmux config
 
-This is a simple but useful setup for tmux, it will continue to grow overtime as more...
+This is a simple but useful setup for tmux, it will continue to grow overtime.
 
 
 ### Plugin Inventory
