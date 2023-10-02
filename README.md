@@ -49,3 +49,9 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # type this in terminal if tmux is already running
 tmux source ~/.tmux.conf
 ```
+
+5)  Within a tmux session invoke tpm install of packages
+```bash
+# install packages via key binding
+<ctrl-b + I>
+```
