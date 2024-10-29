@@ -23,11 +23,8 @@ This is a simple but useful setup for tmux, it will continue to grow overtime.
     - allows users to navigate between Vim splits and tmux panes using a consistent set of key bindings.
     - convenient for users who frequently work with tmux and Vim together, as it makes the process of navigating between different panes and splits more efficient and intuitive.
 
-- [dracula/tmux](https://github.com/dracula/tmux)
-  - dracula is a theme for tmux, provided by the Dracula Theme project. The Dracula Theme is a popular color scheme used in various applications, tools, and environments to provide a specific aesthetic that includes a dark background and vibrant foreground colors.
-  - Features: 
-    - dark theme: It provides a dark color palette, which can be easier on the eyes and is preferred by many users, especially when working in low-light conditions.
-    - vibrant colors: The theme uses vibrant colors to highlight different elements on the screen, making it easier to differentiate between them.
+- [tmux-gruvbox](https://github.com/egel/tmux-gruvbox)
+  - Theme with 'retro groove' flavor for Tmux, based on Pavel Pertsev's gruvbox colorscheme and inspired by work of Gordon Chiam. Subthemes switching inspired by tmux-color-solarized.
 
 
 ### Tmux Plugin Manager (TPM) Installation + Custom Config
